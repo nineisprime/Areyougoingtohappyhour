@@ -1,0 +1,1 @@
+A simple webapp that uses PHP and HTML to communicate with a MYSQL database. Names are added to a database (that you must set up yourself). App can be used to ask simple question and aggregrate information quickly and efficiently.  
